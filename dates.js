@@ -1,4 +1,7 @@
 
+
+
+
 //nowDate displays current date
 var nowDate = new Date().toISOString();
 document.getElementById("nowDateString").innerHTML = nowDate.substring(0, nowDate.length-14);
