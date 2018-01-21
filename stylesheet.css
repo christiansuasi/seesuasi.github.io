@@ -1,5 +1,5 @@
 body{
-	background-color: #000;
+	background-color: #FFF;
     background-size: 17%;
     background-repeat: no-repeat;
     background-position: center;
@@ -12,7 +12,7 @@ h1 {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 23px;
-	color: #fff;
+	color: #000;
 }
 h3 {
 	font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
@@ -29,7 +29,9 @@ p {
 	font-variant: normal;
 	font-weight: 400;
 	line-height: 23px;
-	color: #fff;
+	color: #000;
+	max-width: 50%;
+	text-align:center;
 }
 blockquote {
 	font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
@@ -47,6 +49,7 @@ pre {
 	font-weight: 400;
 	line-height: 23px;
 }
+
 
 
 #header {
